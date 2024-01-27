@@ -8,3 +8,5 @@ Developers:
 My description.
 
 This is my **hello repo**.
+
+New line added in Visual Studio Code.
